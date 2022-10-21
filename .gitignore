@@ -1,0 +1,11 @@
+__pycache__/
+__pypackages__/
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode
+.stroage
+drivers/chromedriver_linux64/chromedriver
+drivers/chromedriver_win32/chromedriver.exe
